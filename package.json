@@ -1,0 +1,12 @@
+{
+  "name": "Indecision-React-App",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Laith-Kamaraldin/Indecision-React-App.git",
+  "author": "Laith-Kamaraldin <laithkamaral@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1"
+  }
+}
